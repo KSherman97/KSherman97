@@ -27,7 +27,7 @@ I'm a passionate developer with a versatile skillset across backend, machine lea
 
 ## 📊 GitHub Stats & Badges
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KSherman97&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KSherman97&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KSherman97&theme=radical)  <br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KSherman97&layout=compact&theme=radical)  
 
