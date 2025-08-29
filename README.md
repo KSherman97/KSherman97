@@ -32,8 +32,6 @@ I'm a passionate developer with a versatile skillset across backend, machine lea
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KSherman97&layout=compact&theme=radical)  
 
 ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=KSherman97&theme=radical&no-frame=true&row=1&column=8)  
-![GitHub Followers](https://img.shields.io/github/followers/KSherman97?style=social)  
-![Profile Views](https://komarev.com/ghpvc/?username=KSherman97&color=blue)  
 
 ---
 
